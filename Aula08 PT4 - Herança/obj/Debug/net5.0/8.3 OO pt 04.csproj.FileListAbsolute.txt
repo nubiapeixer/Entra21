@@ -1,0 +1,64 @@
+C:\Users\nubia.peixer\Desktop\Matutino\8.3 OO pt 04\bin\Debug\net5.0\8.3 OO pt 04.exe
+C:\Users\nubia.peixer\Desktop\Matutino\8.3 OO pt 04\bin\Debug\net5.0\8.3 OO pt 04.deps.json
+C:\Users\nubia.peixer\Desktop\Matutino\8.3 OO pt 04\bin\Debug\net5.0\8.3 OO pt 04.runtimeconfig.json
+C:\Users\nubia.peixer\Desktop\Matutino\8.3 OO pt 04\bin\Debug\net5.0\8.3 OO pt 04.runtimeconfig.dev.json
+C:\Users\nubia.peixer\Desktop\Matutino\8.3 OO pt 04\bin\Debug\net5.0\8.3 OO pt 04.dll
+C:\Users\nubia.peixer\Desktop\Matutino\8.3 OO pt 04\bin\Debug\net5.0\ref\8.3 OO pt 04.dll
+C:\Users\nubia.peixer\Desktop\Matutino\8.3 OO pt 04\bin\Debug\net5.0\8.3 OO pt 04.pdb
+C:\Users\nubia.peixer\Desktop\Matutino\8.3 OO pt 04\obj\Debug\net5.0\8.3 OO pt 04.csprojAssemblyReference.cache
+C:\Users\nubia.peixer\Desktop\Matutino\8.3 OO pt 04\obj\Debug\net5.0\8.3 OO pt 04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nubia.peixer\Desktop\Matutino\8.3 OO pt 04\obj\Debug\net5.0\8.3 OO pt 04.AssemblyInfoInputs.cache
+C:\Users\nubia.peixer\Desktop\Matutino\8.3 OO pt 04\obj\Debug\net5.0\8.3 OO pt 04.AssemblyInfo.cs
+C:\Users\nubia.peixer\Desktop\Matutino\8.3 OO pt 04\obj\Debug\net5.0\8.3 OO pt 04.csproj.CoreCompileInputs.cache
+C:\Users\nubia.peixer\Desktop\Matutino\8.3 OO pt 04\obj\Debug\net5.0\8.3 OO pt 04.dll
+C:\Users\nubia.peixer\Desktop\Matutino\8.3 OO pt 04\obj\Debug\net5.0\ref\8.3 OO pt 04.dll
+C:\Users\nubia.peixer\Desktop\Matutino\8.3 OO pt 04\obj\Debug\net5.0\8.3 OO pt 04.pdb
+C:\Users\nubia.peixer\Desktop\Matutino\8.3 OO pt 04\obj\Debug\net5.0\8.3 OO pt 04.genruntimeconfig.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.3 OO pt 04\bin\Debug\net5.0\8.3 OO pt 04.exe
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.3 OO pt 04\bin\Debug\net5.0\8.3 OO pt 04.deps.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.3 OO pt 04\bin\Debug\net5.0\8.3 OO pt 04.runtimeconfig.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.3 OO pt 04\bin\Debug\net5.0\8.3 OO pt 04.runtimeconfig.dev.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.3 OO pt 04\bin\Debug\net5.0\8.3 OO pt 04.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.3 OO pt 04\bin\Debug\net5.0\ref\8.3 OO pt 04.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.3 OO pt 04\bin\Debug\net5.0\8.3 OO pt 04.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.3 OO pt 04\obj\Debug\net5.0\8.3 OO pt 04.csprojAssemblyReference.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.3 OO pt 04\obj\Debug\net5.0\8.3 OO pt 04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.3 OO pt 04\obj\Debug\net5.0\8.3 OO pt 04.AssemblyInfoInputs.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.3 OO pt 04\obj\Debug\net5.0\8.3 OO pt 04.AssemblyInfo.cs
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.3 OO pt 04\obj\Debug\net5.0\8.3 OO pt 04.csproj.CoreCompileInputs.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.3 OO pt 04\obj\Debug\net5.0\8.3 OO pt 04.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.3 OO pt 04\obj\Debug\net5.0\ref\8.3 OO pt 04.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.3 OO pt 04\obj\Debug\net5.0\8.3 OO pt 04.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.3 OO pt 04\obj\Debug\net5.0\8.3 OO pt 04.genruntimeconfig.cache
+C:\Users\nubia.peixer\Desktop\Matutino\8.3 OO pt 04 - Herança\bin\Debug\net5.0\8.3 OO pt 04.exe
+C:\Users\nubia.peixer\Desktop\Matutino\8.3 OO pt 04 - Herança\bin\Debug\net5.0\8.3 OO pt 04.deps.json
+C:\Users\nubia.peixer\Desktop\Matutino\8.3 OO pt 04 - Herança\bin\Debug\net5.0\8.3 OO pt 04.runtimeconfig.json
+C:\Users\nubia.peixer\Desktop\Matutino\8.3 OO pt 04 - Herança\bin\Debug\net5.0\8.3 OO pt 04.runtimeconfig.dev.json
+C:\Users\nubia.peixer\Desktop\Matutino\8.3 OO pt 04 - Herança\bin\Debug\net5.0\8.3 OO pt 04.dll
+C:\Users\nubia.peixer\Desktop\Matutino\8.3 OO pt 04 - Herança\bin\Debug\net5.0\ref\8.3 OO pt 04.dll
+C:\Users\nubia.peixer\Desktop\Matutino\8.3 OO pt 04 - Herança\bin\Debug\net5.0\8.3 OO pt 04.pdb
+C:\Users\nubia.peixer\Desktop\Matutino\8.3 OO pt 04 - Herança\obj\Debug\net5.0\8.3 OO pt 04.csprojAssemblyReference.cache
+C:\Users\nubia.peixer\Desktop\Matutino\8.3 OO pt 04 - Herança\obj\Debug\net5.0\8.3 OO pt 04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nubia.peixer\Desktop\Matutino\8.3 OO pt 04 - Herança\obj\Debug\net5.0\8.3 OO pt 04.AssemblyInfoInputs.cache
+C:\Users\nubia.peixer\Desktop\Matutino\8.3 OO pt 04 - Herança\obj\Debug\net5.0\8.3 OO pt 04.AssemblyInfo.cs
+C:\Users\nubia.peixer\Desktop\Matutino\8.3 OO pt 04 - Herança\obj\Debug\net5.0\8.3 OO pt 04.csproj.CoreCompileInputs.cache
+C:\Users\nubia.peixer\Desktop\Matutino\8.3 OO pt 04 - Herança\obj\Debug\net5.0\8.3 OO pt 04.dll
+C:\Users\nubia.peixer\Desktop\Matutino\8.3 OO pt 04 - Herança\obj\Debug\net5.0\ref\8.3 OO pt 04.dll
+C:\Users\nubia.peixer\Desktop\Matutino\8.3 OO pt 04 - Herança\obj\Debug\net5.0\8.3 OO pt 04.pdb
+C:\Users\nubia.peixer\Desktop\Matutino\8.3 OO pt 04 - Herança\obj\Debug\net5.0\8.3 OO pt 04.genruntimeconfig.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.3 OO pt 04 - Herança\bin\Debug\net5.0\8.3 OO pt 04.exe
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.3 OO pt 04 - Herança\bin\Debug\net5.0\8.3 OO pt 04.deps.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.3 OO pt 04 - Herança\bin\Debug\net5.0\8.3 OO pt 04.runtimeconfig.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.3 OO pt 04 - Herança\bin\Debug\net5.0\8.3 OO pt 04.runtimeconfig.dev.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.3 OO pt 04 - Herança\bin\Debug\net5.0\8.3 OO pt 04.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.3 OO pt 04 - Herança\bin\Debug\net5.0\ref\8.3 OO pt 04.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.3 OO pt 04 - Herança\bin\Debug\net5.0\8.3 OO pt 04.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.3 OO pt 04 - Herança\obj\Debug\net5.0\8.3 OO pt 04.csprojAssemblyReference.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.3 OO pt 04 - Herança\obj\Debug\net5.0\8.3 OO pt 04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.3 OO pt 04 - Herança\obj\Debug\net5.0\8.3 OO pt 04.AssemblyInfoInputs.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.3 OO pt 04 - Herança\obj\Debug\net5.0\8.3 OO pt 04.AssemblyInfo.cs
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.3 OO pt 04 - Herança\obj\Debug\net5.0\8.3 OO pt 04.csproj.CoreCompileInputs.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.3 OO pt 04 - Herança\obj\Debug\net5.0\8.3 OO pt 04.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.3 OO pt 04 - Herança\obj\Debug\net5.0\ref\8.3 OO pt 04.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.3 OO pt 04 - Herança\obj\Debug\net5.0\8.3 OO pt 04.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.3 OO pt 04 - Herança\obj\Debug\net5.0\8.3 OO pt 04.genruntimeconfig.cache
