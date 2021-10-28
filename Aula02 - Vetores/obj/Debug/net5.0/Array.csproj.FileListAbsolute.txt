@@ -1,0 +1,16 @@
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Exercícios ARRAY VETOR\Array\bin\Debug\net5.0\Array.exe
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Exercícios ARRAY VETOR\Array\bin\Debug\net5.0\Array.deps.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Exercícios ARRAY VETOR\Array\bin\Debug\net5.0\Array.runtimeconfig.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Exercícios ARRAY VETOR\Array\bin\Debug\net5.0\Array.runtimeconfig.dev.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Exercícios ARRAY VETOR\Array\bin\Debug\net5.0\Array.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Exercícios ARRAY VETOR\Array\bin\Debug\net5.0\ref\Array.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Exercícios ARRAY VETOR\Array\bin\Debug\net5.0\Array.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Exercícios ARRAY VETOR\Array\obj\Debug\net5.0\Array.csprojAssemblyReference.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Exercícios ARRAY VETOR\Array\obj\Debug\net5.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Exercícios ARRAY VETOR\Array\obj\Debug\net5.0\Array.AssemblyInfoInputs.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Exercícios ARRAY VETOR\Array\obj\Debug\net5.0\Array.AssemblyInfo.cs
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Exercícios ARRAY VETOR\Array\obj\Debug\net5.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Exercícios ARRAY VETOR\Array\obj\Debug\net5.0\Array.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Exercícios ARRAY VETOR\Array\obj\Debug\net5.0\ref\Array.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Exercícios ARRAY VETOR\Array\obj\Debug\net5.0\Array.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Exercícios ARRAY VETOR\Array\obj\Debug\net5.0\Array.genruntimeconfig.cache
