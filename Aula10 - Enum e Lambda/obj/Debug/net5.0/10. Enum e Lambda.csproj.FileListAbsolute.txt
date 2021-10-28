@@ -1,0 +1,32 @@
+C:\Users\nubia.peixer\Desktop\Matutino\10. Enum e Lambda\bin\Debug\net5.0\10. Enum e Lambda.exe
+C:\Users\nubia.peixer\Desktop\Matutino\10. Enum e Lambda\bin\Debug\net5.0\10. Enum e Lambda.deps.json
+C:\Users\nubia.peixer\Desktop\Matutino\10. Enum e Lambda\bin\Debug\net5.0\10. Enum e Lambda.runtimeconfig.json
+C:\Users\nubia.peixer\Desktop\Matutino\10. Enum e Lambda\bin\Debug\net5.0\10. Enum e Lambda.runtimeconfig.dev.json
+C:\Users\nubia.peixer\Desktop\Matutino\10. Enum e Lambda\bin\Debug\net5.0\10. Enum e Lambda.dll
+C:\Users\nubia.peixer\Desktop\Matutino\10. Enum e Lambda\bin\Debug\net5.0\ref\10. Enum e Lambda.dll
+C:\Users\nubia.peixer\Desktop\Matutino\10. Enum e Lambda\bin\Debug\net5.0\10. Enum e Lambda.pdb
+C:\Users\nubia.peixer\Desktop\Matutino\10. Enum e Lambda\obj\Debug\net5.0\10. Enum e Lambda.csprojAssemblyReference.cache
+C:\Users\nubia.peixer\Desktop\Matutino\10. Enum e Lambda\obj\Debug\net5.0\10. Enum e Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nubia.peixer\Desktop\Matutino\10. Enum e Lambda\obj\Debug\net5.0\10. Enum e Lambda.AssemblyInfoInputs.cache
+C:\Users\nubia.peixer\Desktop\Matutino\10. Enum e Lambda\obj\Debug\net5.0\10. Enum e Lambda.AssemblyInfo.cs
+C:\Users\nubia.peixer\Desktop\Matutino\10. Enum e Lambda\obj\Debug\net5.0\10. Enum e Lambda.csproj.CoreCompileInputs.cache
+C:\Users\nubia.peixer\Desktop\Matutino\10. Enum e Lambda\obj\Debug\net5.0\10. Enum e Lambda.dll
+C:\Users\nubia.peixer\Desktop\Matutino\10. Enum e Lambda\obj\Debug\net5.0\ref\10. Enum e Lambda.dll
+C:\Users\nubia.peixer\Desktop\Matutino\10. Enum e Lambda\obj\Debug\net5.0\10. Enum e Lambda.pdb
+C:\Users\nubia.peixer\Desktop\Matutino\10. Enum e Lambda\obj\Debug\net5.0\10. Enum e Lambda.genruntimeconfig.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\10. Enum e Lambda\bin\Debug\net5.0\10. Enum e Lambda.exe
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\10. Enum e Lambda\bin\Debug\net5.0\10. Enum e Lambda.deps.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\10. Enum e Lambda\bin\Debug\net5.0\10. Enum e Lambda.runtimeconfig.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\10. Enum e Lambda\bin\Debug\net5.0\10. Enum e Lambda.runtimeconfig.dev.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\10. Enum e Lambda\bin\Debug\net5.0\10. Enum e Lambda.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\10. Enum e Lambda\bin\Debug\net5.0\ref\10. Enum e Lambda.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\10. Enum e Lambda\bin\Debug\net5.0\10. Enum e Lambda.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\10. Enum e Lambda\obj\Debug\net5.0\10. Enum e Lambda.csprojAssemblyReference.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\10. Enum e Lambda\obj\Debug\net5.0\10. Enum e Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\10. Enum e Lambda\obj\Debug\net5.0\10. Enum e Lambda.AssemblyInfoInputs.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\10. Enum e Lambda\obj\Debug\net5.0\10. Enum e Lambda.AssemblyInfo.cs
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\10. Enum e Lambda\obj\Debug\net5.0\10. Enum e Lambda.csproj.CoreCompileInputs.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\10. Enum e Lambda\obj\Debug\net5.0\10. Enum e Lambda.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\10. Enum e Lambda\obj\Debug\net5.0\ref\10. Enum e Lambda.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\10. Enum e Lambda\obj\Debug\net5.0\10. Enum e Lambda.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\10. Enum e Lambda\obj\Debug\net5.0\10. Enum e Lambda.genruntimeconfig.cache
