@@ -1,0 +1,11 @@
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\16. Funções MultiRetorno\bin\Debug\_16.Funções_MultiRetorno.exe.config
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\16. Funções MultiRetorno\bin\Debug\_16.Funções_MultiRetorno.exe
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\16. Funções MultiRetorno\bin\Debug\_16.Funções_MultiRetorno.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\16. Funções MultiRetorno\obj\Debug\16. Funções MultiRetorno.csprojAssemblyReference.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\16. Funções MultiRetorno\obj\Debug\_16.Funções_MultiRetorno.Exec03.resources
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\16. Funções MultiRetorno\obj\Debug\_16.Funções_MultiRetorno.Form1.resources
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\16. Funções MultiRetorno\obj\Debug\_16.Funções_MultiRetorno.Properties.Resources.resources
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\16. Funções MultiRetorno\obj\Debug\16. Funções MultiRetorno.csproj.GenerateResource.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\16. Funções MultiRetorno\obj\Debug\16. Funções MultiRetorno.csproj.CoreCompileInputs.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\16. Funções MultiRetorno\obj\Debug\_16.Funções_MultiRetorno.exe
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\16. Funções MultiRetorno\obj\Debug\_16.Funções_MultiRetorno.pdb
