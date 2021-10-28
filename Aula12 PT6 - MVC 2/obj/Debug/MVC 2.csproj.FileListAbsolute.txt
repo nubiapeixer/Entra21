@@ -1,0 +1,11 @@
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\MVC 2\bin\Debug\MVC 2.exe.config
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\MVC 2\bin\Debug\MVC 2.exe
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\MVC 2\bin\Debug\MVC 2.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\MVC 2\obj\Debug\MVC 2.csprojAssemblyReference.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\MVC 2\obj\Debug\MVC_2.Properties.Resources.resources
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\MVC 2\obj\Debug\MVC_2.View.Cliente.resources
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\MVC 2\obj\Debug\MVC_2.Form1.resources
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\MVC 2\obj\Debug\MVC 2.csproj.GenerateResource.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\MVC 2\obj\Debug\MVC 2.csproj.CoreCompileInputs.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\MVC 2\obj\Debug\MVC 2.exe
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\MVC 2\obj\Debug\MVC 2.pdb
