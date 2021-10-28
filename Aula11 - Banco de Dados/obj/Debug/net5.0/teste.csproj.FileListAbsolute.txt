@@ -1,0 +1,46 @@
+C:\Users\nubia\OneDrive\Área de Trabalho\teste\bin\Debug\net5.0\teste.exe
+C:\Users\nubia\OneDrive\Área de Trabalho\teste\bin\Debug\net5.0\teste.deps.json
+C:\Users\nubia\OneDrive\Área de Trabalho\teste\bin\Debug\net5.0\teste.runtimeconfig.json
+C:\Users\nubia\OneDrive\Área de Trabalho\teste\bin\Debug\net5.0\teste.runtimeconfig.dev.json
+C:\Users\nubia\OneDrive\Área de Trabalho\teste\bin\Debug\net5.0\teste.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\teste\bin\Debug\net5.0\ref\teste.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\teste\bin\Debug\net5.0\teste.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\teste\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\teste\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\teste\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\teste\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\teste\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\teste\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\teste\obj\Debug\net5.0\teste.csprojAssemblyReference.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\teste\obj\Debug\net5.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nubia\OneDrive\Área de Trabalho\teste\obj\Debug\net5.0\teste.AssemblyInfoInputs.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\teste\obj\Debug\net5.0\teste.AssemblyInfo.cs
+C:\Users\nubia\OneDrive\Área de Trabalho\teste\obj\Debug\net5.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\teste\obj\Debug\net5.0\teste.csproj.CopyComplete
+C:\Users\nubia\OneDrive\Área de Trabalho\teste\obj\Debug\net5.0\teste.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\teste\obj\Debug\net5.0\ref\teste.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\teste\obj\Debug\net5.0\teste.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\teste\obj\Debug\net5.0\teste.genruntimeconfig.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\11. Banco de Dados\bin\Debug\net5.0\teste.exe
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\11. Banco de Dados\bin\Debug\net5.0\teste.deps.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\11. Banco de Dados\bin\Debug\net5.0\teste.runtimeconfig.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\11. Banco de Dados\bin\Debug\net5.0\teste.runtimeconfig.dev.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\11. Banco de Dados\bin\Debug\net5.0\teste.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\11. Banco de Dados\bin\Debug\net5.0\ref\teste.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\11. Banco de Dados\bin\Debug\net5.0\teste.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\11. Banco de Dados\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\11. Banco de Dados\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\11. Banco de Dados\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\11. Banco de Dados\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\11. Banco de Dados\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\11. Banco de Dados\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\11. Banco de Dados\obj\Debug\net5.0\teste.csprojAssemblyReference.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\11. Banco de Dados\obj\Debug\net5.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\11. Banco de Dados\obj\Debug\net5.0\teste.AssemblyInfoInputs.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\11. Banco de Dados\obj\Debug\net5.0\teste.AssemblyInfo.cs
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\11. Banco de Dados\obj\Debug\net5.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\11. Banco de Dados\obj\Debug\net5.0\teste.csproj.CopyComplete
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\11. Banco de Dados\obj\Debug\net5.0\teste.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\11. Banco de Dados\obj\Debug\net5.0\ref\teste.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\11. Banco de Dados\obj\Debug\net5.0\teste.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\11. Banco de Dados\obj\Debug\net5.0\teste.genruntimeconfig.cache
