@@ -1,0 +1,16 @@
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Aula05 - Exec 1 a 8\bin\Debug\net5.0\Aula05 - Exec 1 a 8.exe
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Aula05 - Exec 1 a 8\bin\Debug\net5.0\Aula05 - Exec 1 a 8.deps.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Aula05 - Exec 1 a 8\bin\Debug\net5.0\Aula05 - Exec 1 a 8.runtimeconfig.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Aula05 - Exec 1 a 8\bin\Debug\net5.0\Aula05 - Exec 1 a 8.runtimeconfig.dev.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Aula05 - Exec 1 a 8\bin\Debug\net5.0\Aula05 - Exec 1 a 8.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Aula05 - Exec 1 a 8\bin\Debug\net5.0\ref\Aula05 - Exec 1 a 8.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Aula05 - Exec 1 a 8\bin\Debug\net5.0\Aula05 - Exec 1 a 8.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Aula05 - Exec 1 a 8\obj\Debug\net5.0\Aula05 - Exec 1 a 8.csprojAssemblyReference.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Aula05 - Exec 1 a 8\obj\Debug\net5.0\Aula05 - Exec 1 a 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Aula05 - Exec 1 a 8\obj\Debug\net5.0\Aula05 - Exec 1 a 8.AssemblyInfoInputs.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Aula05 - Exec 1 a 8\obj\Debug\net5.0\Aula05 - Exec 1 a 8.AssemblyInfo.cs
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Aula05 - Exec 1 a 8\obj\Debug\net5.0\Aula05 - Exec 1 a 8.csproj.CoreCompileInputs.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Aula05 - Exec 1 a 8\obj\Debug\net5.0\Aula05 - Exec 1 a 8.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Aula05 - Exec 1 a 8\obj\Debug\net5.0\ref\Aula05 - Exec 1 a 8.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Aula05 - Exec 1 a 8\obj\Debug\net5.0\Aula05 - Exec 1 a 8.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Aula05 - Exec 1 a 8\obj\Debug\net5.0\Aula05 - Exec 1 a 8.genruntimeconfig.cache
