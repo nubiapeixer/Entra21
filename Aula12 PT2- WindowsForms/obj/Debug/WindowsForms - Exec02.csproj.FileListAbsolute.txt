@@ -1,0 +1,39 @@
+C:\Users\nubia.peixer\Desktop\Matutino\13. Windows Form pt2\WindowsForms - Exec02\bin\Debug\WindowsForms - Exec02.exe.config
+C:\Users\nubia.peixer\Desktop\Matutino\13. Windows Form pt2\WindowsForms - Exec02\bin\Debug\WindowsForms - Exec02.exe
+C:\Users\nubia.peixer\Desktop\Matutino\13. Windows Form pt2\WindowsForms - Exec02\bin\Debug\WindowsForms - Exec02.pdb
+C:\Users\nubia.peixer\Desktop\Matutino\13. Windows Form pt2\WindowsForms - Exec02\obj\Debug\WindowsForms - Exec02.csproj.AssemblyReference.cache
+C:\Users\nubia.peixer\Desktop\Matutino\13. Windows Form pt2\WindowsForms - Exec02\obj\Debug\WindowsForms___Exec02.Exec02.resources
+C:\Users\nubia.peixer\Desktop\Matutino\13. Windows Form pt2\WindowsForms - Exec02\obj\Debug\WindowsForms___Exec02.Form1.resources
+C:\Users\nubia.peixer\Desktop\Matutino\13. Windows Form pt2\WindowsForms - Exec02\obj\Debug\WindowsForms___Exec02.Properties.Resources.resources
+C:\Users\nubia.peixer\Desktop\Matutino\13. Windows Form pt2\WindowsForms - Exec02\obj\Debug\WindowsForms - Exec02.csproj.GenerateResource.cache
+C:\Users\nubia.peixer\Desktop\Matutino\13. Windows Form pt2\WindowsForms - Exec02\obj\Debug\WindowsForms - Exec02.csproj.CoreCompileInputs.cache
+C:\Users\nubia.peixer\Desktop\Matutino\13. Windows Form pt2\WindowsForms - Exec02\obj\Debug\WindowsForms - Exec02.exe
+C:\Users\nubia.peixer\Desktop\Matutino\13. Windows Form pt2\WindowsForms - Exec02\obj\Debug\WindowsForms - Exec02.pdb
+C:\Users\nubia.peixer\Desktop\Matutino\13. Windows Form pt2\WindowsForms - Exec02\obj\Debug\WindowsForms___Exec02.Deposito.resources
+C:\Users\nubia.peixer\Desktop\Matutino\13. Windows Form pt2\WindowsForms - Exec02\obj\Debug\WindowsForms___Exec02.Saque.resources
+C:\Users\nubia.peixer\Desktop\Matutino\13. Windows Form pt2\WindowsForms - Exec02\obj\Debug\WindowsForms___Exec02.Contas.resources
+C:\Users\nubia.peixer\Desktop\Matutino\13. Windows Form pt2\WindowsForms - Exec02\obj\Debug\WindowsForms___Exec02.Exec01.resources
+C:\Users\nubia.peixer\Desktop\Matutino\13. Windows Form pt2\WindowsForms - Exec02\obj\Debug\WindowsForms___Exec02.Admin.resources
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\13. Windows Form pt2\WindowsForms Parte 2\bin\Debug\WindowsForms - Exec02.exe.config
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\13. Windows Form pt2\WindowsForms Parte 2\bin\Debug\WindowsForms - Exec02.exe
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\13. Windows Form pt2\WindowsForms Parte 2\bin\Debug\WindowsForms - Exec02.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\13. Windows Form pt2\WindowsForms Parte 2\obj\Debug\WindowsForms - Exec02.csprojAssemblyReference.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\13. Windows Form pt2\WindowsForms Parte 2\obj\Debug\WindowsForms___Exec02.Admin.resources
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\13. Windows Form pt2\WindowsForms Parte 2\obj\Debug\WindowsForms___Exec02.Contas.resources
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\13. Windows Form pt2\WindowsForms Parte 2\obj\Debug\WindowsForms___Exec02.Deposito.resources
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\13. Windows Form pt2\WindowsForms Parte 2\obj\Debug\WindowsForms___Exec02.Exec01.resources
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\13. Windows Form pt2\WindowsForms Parte 2\obj\Debug\WindowsForms___Exec02.Exec02.resources
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\13. Windows Form pt2\WindowsForms Parte 2\obj\Debug\WindowsForms___Exec02.Form1.resources
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\13. Windows Form pt2\WindowsForms Parte 2\obj\Debug\WindowsForms___Exec02.Properties.Resources.resources
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\13. Windows Form pt2\WindowsForms Parte 2\obj\Debug\WindowsForms___Exec02.Saque.resources
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\13. Windows Form pt2\WindowsForms Parte 2\obj\Debug\WindowsForms - Exec02.csproj.GenerateResource.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\13. Windows Form pt2\WindowsForms Parte 2\obj\Debug\WindowsForms - Exec02.csproj.CoreCompileInputs.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\13. Windows Form pt2\WindowsForms Parte 2\obj\Debug\WindowsForms - Exec02.exe
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\13. Windows Form pt2\WindowsForms Parte 2\obj\Debug\WindowsForms - Exec02.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\13. Windows Form pt2\WindowsForms Parte 2\obj\Debug\WindowsForms___Exec02.Nome.resources
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\13. Windows Form pt2\WindowsForms Parte 2\obj\Debug\WindowsForms___Exec02.ListaNomes.resources
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\13. Windows Form pt2\WindowsForms Parte 2\obj\Debug\WindowsForms___Exec02.Exec05.resources
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\13. Windows Form pt2\WindowsForms Parte 2\obj\Debug\WindowsForms___Exec02.Operacoes.resources
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\13. Windows Form pt2\WindowsForms Parte 2\obj\Debug\WindowsForms___Exec02.Corrigido1.resources
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\13. Windows Form pt2\WindowsForms Parte 2\obj\Debug\WindowsForms___Exec02.Form2.resources
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\13. Windows Form pt2\WindowsForms Parte 2\obj\Debug\WindowsForms___Exec02.Admin2.resources
