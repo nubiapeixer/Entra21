@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Variáveis avançadas, static e list/1.0.0": {
+        "runtime": {
+          "Variáveis avançadas, static e list.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Variáveis avançadas, static e list/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,48 @@
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Variáveis avançadas, static e list\bin\Debug\net5.0\Variáveis avançadas, static e list.exe
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Variáveis avançadas, static e list\bin\Debug\net5.0\Variáveis avançadas, static e list.deps.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Variáveis avançadas, static e list\bin\Debug\net5.0\Variáveis avançadas, static e list.runtimeconfig.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Variáveis avançadas, static e list\bin\Debug\net5.0\Variáveis avançadas, static e list.runtimeconfig.dev.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Variáveis avançadas, static e list\bin\Debug\net5.0\Variáveis avançadas, static e list.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Variáveis avançadas, static e list\bin\Debug\net5.0\ref\Variáveis avançadas, static e list.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Variáveis avançadas, static e list\bin\Debug\net5.0\Variáveis avançadas, static e list.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Variáveis avançadas, static e list\obj\Debug\net5.0\Variáveis avançadas, static e list.csprojAssemblyReference.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Variáveis avançadas, static e list\obj\Debug\net5.0\Variáveis avançadas, static e list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Variáveis avançadas, static e list\obj\Debug\net5.0\Variáveis avançadas, static e list.AssemblyInfoInputs.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Variáveis avançadas, static e list\obj\Debug\net5.0\Variáveis avançadas, static e list.AssemblyInfo.cs
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Variáveis avançadas, static e list\obj\Debug\net5.0\Variáveis avançadas, static e list.csproj.CoreCompileInputs.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Variáveis avançadas, static e list\obj\Debug\net5.0\Variáveis avançadas, static e list.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Variáveis avançadas, static e list\obj\Debug\net5.0\ref\Variáveis avançadas, static e list.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Variáveis avançadas, static e list\obj\Debug\net5.0\Variáveis avançadas, static e list.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Variáveis avançadas, static e list\obj\Debug\net5.0\Variáveis avançadas, static e list.genruntimeconfig.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\Variáveis avançadas, static e list\bin\Debug\net5.0\Variáveis avançadas, static e list.exe
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\Variáveis avançadas, static e list\bin\Debug\net5.0\Variáveis avançadas, static e list.deps.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\Variáveis avançadas, static e list\bin\Debug\net5.0\Variáveis avançadas, static e list.runtimeconfig.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\Variáveis avançadas, static e list\bin\Debug\net5.0\Variáveis avançadas, static e list.runtimeconfig.dev.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\Variáveis avançadas, static e list\bin\Debug\net5.0\Variáveis avançadas, static e list.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\Variáveis avançadas, static e list\bin\Debug\net5.0\ref\Variáveis avançadas, static e list.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\Variáveis avançadas, static e list\bin\Debug\net5.0\Variáveis avançadas, static e list.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\Variáveis avançadas, static e list\obj\Debug\net5.0\Variáveis avançadas, static e list.csprojAssemblyReference.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\Variáveis avançadas, static e list\obj\Debug\net5.0\Variáveis avançadas, static e list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\Variáveis avançadas, static e list\obj\Debug\net5.0\Variáveis avançadas, static e list.AssemblyInfoInputs.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\Variáveis avançadas, static e list\obj\Debug\net5.0\Variáveis avançadas, static e list.AssemblyInfo.cs
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\Variáveis avançadas, static e list\obj\Debug\net5.0\Variáveis avançadas, static e list.csproj.CoreCompileInputs.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\Variáveis avançadas, static e list\obj\Debug\net5.0\Variáveis avançadas, static e list.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\Variáveis avançadas, static e list\obj\Debug\net5.0\ref\Variáveis avançadas, static e list.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\Variáveis avançadas, static e list\obj\Debug\net5.0\Variáveis avançadas, static e list.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\Variáveis avançadas, static e list\obj\Debug\net5.0\Variáveis avançadas, static e list.genruntimeconfig.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\5 Variáveis avançadas, static e list\bin\Debug\net5.0\Variáveis avançadas, static e list.exe
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\5 Variáveis avançadas, static e list\bin\Debug\net5.0\Variáveis avançadas, static e list.deps.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\5 Variáveis avançadas, static e list\bin\Debug\net5.0\Variáveis avançadas, static e list.runtimeconfig.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\5 Variáveis avançadas, static e list\bin\Debug\net5.0\Variáveis avançadas, static e list.runtimeconfig.dev.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\5 Variáveis avançadas, static e list\bin\Debug\net5.0\Variáveis avançadas, static e list.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\5 Variáveis avançadas, static e list\bin\Debug\net5.0\ref\Variáveis avançadas, static e list.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\5 Variáveis avançadas, static e list\bin\Debug\net5.0\Variáveis avançadas, static e list.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\5 Variáveis avançadas, static e list\obj\Debug\net5.0\Variáveis avançadas, static e list.csprojAssemblyReference.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\5 Variáveis avançadas, static e list\obj\Debug\net5.0\Variáveis avançadas, static e list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\5 Variáveis avançadas, static e list\obj\Debug\net5.0\Variáveis avançadas, static e list.AssemblyInfoInputs.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\5 Variáveis avançadas, static e list\obj\Debug\net5.0\Variáveis avançadas, static e list.AssemblyInfo.cs
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\5 Variáveis avançadas, static e list\obj\Debug\net5.0\Variáveis avançadas, static e list.csproj.CoreCompileInputs.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\5 Variáveis avançadas, static e list\obj\Debug\net5.0\Variáveis avançadas, static e list.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\5 Variáveis avançadas, static e list\obj\Debug\net5.0\ref\Variáveis avançadas, static e list.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\5 Variáveis avançadas, static e list\obj\Debug\net5.0\Variáveis avançadas, static e list.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\5 Variáveis avançadas, static e list\obj\Debug\net5.0\Variáveis avançadas, static e list.genruntimeconfig.cache
