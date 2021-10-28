@@ -1,0 +1,16 @@
+C:\Users\nubia.peixer\Desktop\Matutino\8.1 OO pt2\bin\Debug\net5.0\8.1 OO pt2.exe
+C:\Users\nubia.peixer\Desktop\Matutino\8.1 OO pt2\bin\Debug\net5.0\8.1 OO pt2.deps.json
+C:\Users\nubia.peixer\Desktop\Matutino\8.1 OO pt2\bin\Debug\net5.0\8.1 OO pt2.runtimeconfig.json
+C:\Users\nubia.peixer\Desktop\Matutino\8.1 OO pt2\bin\Debug\net5.0\8.1 OO pt2.runtimeconfig.dev.json
+C:\Users\nubia.peixer\Desktop\Matutino\8.1 OO pt2\bin\Debug\net5.0\8.1 OO pt2.dll
+C:\Users\nubia.peixer\Desktop\Matutino\8.1 OO pt2\bin\Debug\net5.0\ref\8.1 OO pt2.dll
+C:\Users\nubia.peixer\Desktop\Matutino\8.1 OO pt2\bin\Debug\net5.0\8.1 OO pt2.pdb
+C:\Users\nubia.peixer\Desktop\Matutino\8.1 OO pt2\obj\Debug\net5.0\8.1 OO pt2.csprojAssemblyReference.cache
+C:\Users\nubia.peixer\Desktop\Matutino\8.1 OO pt2\obj\Debug\net5.0\8.1 OO pt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nubia.peixer\Desktop\Matutino\8.1 OO pt2\obj\Debug\net5.0\8.1 OO pt2.AssemblyInfoInputs.cache
+C:\Users\nubia.peixer\Desktop\Matutino\8.1 OO pt2\obj\Debug\net5.0\8.1 OO pt2.AssemblyInfo.cs
+C:\Users\nubia.peixer\Desktop\Matutino\8.1 OO pt2\obj\Debug\net5.0\8.1 OO pt2.csproj.CoreCompileInputs.cache
+C:\Users\nubia.peixer\Desktop\Matutino\8.1 OO pt2\obj\Debug\net5.0\8.1 OO pt2.dll
+C:\Users\nubia.peixer\Desktop\Matutino\8.1 OO pt2\obj\Debug\net5.0\ref\8.1 OO pt2.dll
+C:\Users\nubia.peixer\Desktop\Matutino\8.1 OO pt2\obj\Debug\net5.0\8.1 OO pt2.pdb
+C:\Users\nubia.peixer\Desktop\Matutino\8.1 OO pt2\obj\Debug\net5.0\8.1 OO pt2.genruntimeconfig.cache
