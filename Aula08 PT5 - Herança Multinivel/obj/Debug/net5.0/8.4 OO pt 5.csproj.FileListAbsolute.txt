@@ -1,0 +1,48 @@
+C:\Users\nubia.peixer\Desktop\Matutino\8.4 OO pt 5\bin\Debug\net5.0\8.4 OO pt 5.exe
+C:\Users\nubia.peixer\Desktop\Matutino\8.4 OO pt 5\bin\Debug\net5.0\8.4 OO pt 5.deps.json
+C:\Users\nubia.peixer\Desktop\Matutino\8.4 OO pt 5\bin\Debug\net5.0\8.4 OO pt 5.runtimeconfig.json
+C:\Users\nubia.peixer\Desktop\Matutino\8.4 OO pt 5\bin\Debug\net5.0\8.4 OO pt 5.runtimeconfig.dev.json
+C:\Users\nubia.peixer\Desktop\Matutino\8.4 OO pt 5\bin\Debug\net5.0\8.4 OO pt 5.dll
+C:\Users\nubia.peixer\Desktop\Matutino\8.4 OO pt 5\bin\Debug\net5.0\ref\8.4 OO pt 5.dll
+C:\Users\nubia.peixer\Desktop\Matutino\8.4 OO pt 5\bin\Debug\net5.0\8.4 OO pt 5.pdb
+C:\Users\nubia.peixer\Desktop\Matutino\8.4 OO pt 5\obj\Debug\net5.0\8.4 OO pt 5.csprojAssemblyReference.cache
+C:\Users\nubia.peixer\Desktop\Matutino\8.4 OO pt 5\obj\Debug\net5.0\8.4 OO pt 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nubia.peixer\Desktop\Matutino\8.4 OO pt 5\obj\Debug\net5.0\8.4 OO pt 5.AssemblyInfoInputs.cache
+C:\Users\nubia.peixer\Desktop\Matutino\8.4 OO pt 5\obj\Debug\net5.0\8.4 OO pt 5.AssemblyInfo.cs
+C:\Users\nubia.peixer\Desktop\Matutino\8.4 OO pt 5\obj\Debug\net5.0\8.4 OO pt 5.csproj.CoreCompileInputs.cache
+C:\Users\nubia.peixer\Desktop\Matutino\8.4 OO pt 5\obj\Debug\net5.0\8.4 OO pt 5.dll
+C:\Users\nubia.peixer\Desktop\Matutino\8.4 OO pt 5\obj\Debug\net5.0\ref\8.4 OO pt 5.dll
+C:\Users\nubia.peixer\Desktop\Matutino\8.4 OO pt 5\obj\Debug\net5.0\8.4 OO pt 5.pdb
+C:\Users\nubia.peixer\Desktop\Matutino\8.4 OO pt 5\obj\Debug\net5.0\8.4 OO pt 5.genruntimeconfig.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.4 OO pt 5 - Herança Multinivel\bin\Debug\net5.0\8.4 OO pt 5.exe
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.4 OO pt 5 - Herança Multinivel\bin\Debug\net5.0\8.4 OO pt 5.deps.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.4 OO pt 5 - Herança Multinivel\bin\Debug\net5.0\8.4 OO pt 5.runtimeconfig.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.4 OO pt 5 - Herança Multinivel\bin\Debug\net5.0\8.4 OO pt 5.runtimeconfig.dev.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.4 OO pt 5 - Herança Multinivel\bin\Debug\net5.0\8.4 OO pt 5.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.4 OO pt 5 - Herança Multinivel\bin\Debug\net5.0\ref\8.4 OO pt 5.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.4 OO pt 5 - Herança Multinivel\bin\Debug\net5.0\8.4 OO pt 5.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.4 OO pt 5 - Herança Multinivel\obj\Debug\net5.0\8.4 OO pt 5.csprojAssemblyReference.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.4 OO pt 5 - Herança Multinivel\obj\Debug\net5.0\8.4 OO pt 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.4 OO pt 5 - Herança Multinivel\obj\Debug\net5.0\8.4 OO pt 5.AssemblyInfoInputs.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.4 OO pt 5 - Herança Multinivel\obj\Debug\net5.0\8.4 OO pt 5.AssemblyInfo.cs
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.4 OO pt 5 - Herança Multinivel\obj\Debug\net5.0\8.4 OO pt 5.csproj.CoreCompileInputs.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.4 OO pt 5 - Herança Multinivel\obj\Debug\net5.0\8.4 OO pt 5.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.4 OO pt 5 - Herança Multinivel\obj\Debug\net5.0\ref\8.4 OO pt 5.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.4 OO pt 5 - Herança Multinivel\obj\Debug\net5.0\8.4 OO pt 5.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\8.4 OO pt 5 - Herança Multinivel\obj\Debug\net5.0\8.4 OO pt 5.genruntimeconfig.cache
+C:\Users\nubia.peixer\Desktop\Matutino\8.4 OO pt 5 - Herança Multinivel\bin\Debug\net5.0\8.4 OO pt 5.exe
+C:\Users\nubia.peixer\Desktop\Matutino\8.4 OO pt 5 - Herança Multinivel\bin\Debug\net5.0\8.4 OO pt 5.deps.json
+C:\Users\nubia.peixer\Desktop\Matutino\8.4 OO pt 5 - Herança Multinivel\bin\Debug\net5.0\8.4 OO pt 5.runtimeconfig.json
+C:\Users\nubia.peixer\Desktop\Matutino\8.4 OO pt 5 - Herança Multinivel\bin\Debug\net5.0\8.4 OO pt 5.runtimeconfig.dev.json
+C:\Users\nubia.peixer\Desktop\Matutino\8.4 OO pt 5 - Herança Multinivel\bin\Debug\net5.0\8.4 OO pt 5.dll
+C:\Users\nubia.peixer\Desktop\Matutino\8.4 OO pt 5 - Herança Multinivel\bin\Debug\net5.0\ref\8.4 OO pt 5.dll
+C:\Users\nubia.peixer\Desktop\Matutino\8.4 OO pt 5 - Herança Multinivel\bin\Debug\net5.0\8.4 OO pt 5.pdb
+C:\Users\nubia.peixer\Desktop\Matutino\8.4 OO pt 5 - Herança Multinivel\obj\Debug\net5.0\8.4 OO pt 5.csprojAssemblyReference.cache
+C:\Users\nubia.peixer\Desktop\Matutino\8.4 OO pt 5 - Herança Multinivel\obj\Debug\net5.0\8.4 OO pt 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nubia.peixer\Desktop\Matutino\8.4 OO pt 5 - Herança Multinivel\obj\Debug\net5.0\8.4 OO pt 5.AssemblyInfoInputs.cache
+C:\Users\nubia.peixer\Desktop\Matutino\8.4 OO pt 5 - Herança Multinivel\obj\Debug\net5.0\8.4 OO pt 5.AssemblyInfo.cs
+C:\Users\nubia.peixer\Desktop\Matutino\8.4 OO pt 5 - Herança Multinivel\obj\Debug\net5.0\8.4 OO pt 5.csproj.CoreCompileInputs.cache
+C:\Users\nubia.peixer\Desktop\Matutino\8.4 OO pt 5 - Herança Multinivel\obj\Debug\net5.0\8.4 OO pt 5.dll
+C:\Users\nubia.peixer\Desktop\Matutino\8.4 OO pt 5 - Herança Multinivel\obj\Debug\net5.0\ref\8.4 OO pt 5.dll
+C:\Users\nubia.peixer\Desktop\Matutino\8.4 OO pt 5 - Herança Multinivel\obj\Debug\net5.0\8.4 OO pt 5.pdb
+C:\Users\nubia.peixer\Desktop\Matutino\8.4 OO pt 5 - Herança Multinivel\obj\Debug\net5.0\8.4 OO pt 5.genruntimeconfig.cache
