@@ -1,0 +1,32 @@
+C:\Users\nubia.peixer\Desktop\Matutino\9. Interfaces\bin\Debug\net5.0\9. Interfaces.exe
+C:\Users\nubia.peixer\Desktop\Matutino\9. Interfaces\bin\Debug\net5.0\9. Interfaces.deps.json
+C:\Users\nubia.peixer\Desktop\Matutino\9. Interfaces\bin\Debug\net5.0\9. Interfaces.runtimeconfig.json
+C:\Users\nubia.peixer\Desktop\Matutino\9. Interfaces\bin\Debug\net5.0\9. Interfaces.runtimeconfig.dev.json
+C:\Users\nubia.peixer\Desktop\Matutino\9. Interfaces\bin\Debug\net5.0\9. Interfaces.dll
+C:\Users\nubia.peixer\Desktop\Matutino\9. Interfaces\bin\Debug\net5.0\ref\9. Interfaces.dll
+C:\Users\nubia.peixer\Desktop\Matutino\9. Interfaces\bin\Debug\net5.0\9. Interfaces.pdb
+C:\Users\nubia.peixer\Desktop\Matutino\9. Interfaces\obj\Debug\net5.0\9. Interfaces.csprojAssemblyReference.cache
+C:\Users\nubia.peixer\Desktop\Matutino\9. Interfaces\obj\Debug\net5.0\9. Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nubia.peixer\Desktop\Matutino\9. Interfaces\obj\Debug\net5.0\9. Interfaces.AssemblyInfoInputs.cache
+C:\Users\nubia.peixer\Desktop\Matutino\9. Interfaces\obj\Debug\net5.0\9. Interfaces.AssemblyInfo.cs
+C:\Users\nubia.peixer\Desktop\Matutino\9. Interfaces\obj\Debug\net5.0\9. Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\nubia.peixer\Desktop\Matutino\9. Interfaces\obj\Debug\net5.0\9. Interfaces.dll
+C:\Users\nubia.peixer\Desktop\Matutino\9. Interfaces\obj\Debug\net5.0\ref\9. Interfaces.dll
+C:\Users\nubia.peixer\Desktop\Matutino\9. Interfaces\obj\Debug\net5.0\9. Interfaces.pdb
+C:\Users\nubia.peixer\Desktop\Matutino\9. Interfaces\obj\Debug\net5.0\9. Interfaces.genruntimeconfig.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\9. Interfaces\bin\Debug\net5.0\9. Interfaces.exe
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\9. Interfaces\bin\Debug\net5.0\9. Interfaces.deps.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\9. Interfaces\bin\Debug\net5.0\9. Interfaces.runtimeconfig.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\9. Interfaces\bin\Debug\net5.0\9. Interfaces.runtimeconfig.dev.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\9. Interfaces\bin\Debug\net5.0\9. Interfaces.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\9. Interfaces\bin\Debug\net5.0\ref\9. Interfaces.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\9. Interfaces\bin\Debug\net5.0\9. Interfaces.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\9. Interfaces\obj\Debug\net5.0\9. Interfaces.csprojAssemblyReference.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\9. Interfaces\obj\Debug\net5.0\9. Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\9. Interfaces\obj\Debug\net5.0\9. Interfaces.AssemblyInfoInputs.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\9. Interfaces\obj\Debug\net5.0\9. Interfaces.AssemblyInfo.cs
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\9. Interfaces\obj\Debug\net5.0\9. Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\9. Interfaces\obj\Debug\net5.0\9. Interfaces.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\9. Interfaces\obj\Debug\net5.0\ref\9. Interfaces.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\9. Interfaces\obj\Debug\net5.0\9. Interfaces.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\9. Interfaces\obj\Debug\net5.0\9. Interfaces.genruntimeconfig.cache
