@@ -1,0 +1,16 @@
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Desafio 01\bin\Debug\net5.0\Desafio 01.exe
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Desafio 01\bin\Debug\net5.0\Desafio 01.deps.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Desafio 01\bin\Debug\net5.0\Desafio 01.runtimeconfig.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Desafio 01\bin\Debug\net5.0\Desafio 01.runtimeconfig.dev.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Desafio 01\bin\Debug\net5.0\Desafio 01.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Desafio 01\bin\Debug\net5.0\ref\Desafio 01.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Desafio 01\bin\Debug\net5.0\Desafio 01.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Desafio 01\obj\Debug\net5.0\Desafio 01.csprojAssemblyReference.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Desafio 01\obj\Debug\net5.0\Desafio 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Desafio 01\obj\Debug\net5.0\Desafio 01.AssemblyInfoInputs.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Desafio 01\obj\Debug\net5.0\Desafio 01.AssemblyInfo.cs
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Desafio 01\obj\Debug\net5.0\Desafio 01.csproj.CoreCompileInputs.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Desafio 01\obj\Debug\net5.0\Desafio 01.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Desafio 01\obj\Debug\net5.0\ref\Desafio 01.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Desafio 01\obj\Debug\net5.0\Desafio 01.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\Desafio 01\obj\Debug\net5.0\Desafio 01.genruntimeconfig.cache
