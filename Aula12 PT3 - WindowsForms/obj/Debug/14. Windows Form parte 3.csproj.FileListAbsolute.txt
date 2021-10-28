@@ -1,0 +1,66 @@
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\14. Windows Form parte 3\bin\Debug\_14.Windows_Form_parte_3.exe.config
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\14. Windows Form parte 3\bin\Debug\_14.Windows_Form_parte_3.exe
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\14. Windows Form parte 3\bin\Debug\_14.Windows_Form_parte_3.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\14. Windows Form parte 3\obj\Debug\14. Windows Form parte 3.csprojAssemblyReference.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\14. Windows Form parte 3\obj\Debug\_14.Windows_Form_parte_3.Exec02.resources
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\14. Windows Form parte 3\obj\Debug\_14.Windows_Form_parte_3.Form1.resources
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\14. Windows Form parte 3\obj\Debug\_14.Windows_Form_parte_3.Properties.Resources.resources
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\14. Windows Form parte 3\obj\Debug\14. Windows Form parte 3.csproj.GenerateResource.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\14. Windows Form parte 3\obj\Debug\14. Windows Form parte 3.csproj.CoreCompileInputs.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\14. Windows Form parte 3\obj\Debug\_14.Windows_Form_parte_3.exe
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\14. Windows Form parte 3\obj\Debug\_14.Windows_Form_parte_3.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\14. Windows Form parte 3\obj\Debug\_14.Windows_Form_parte_3.Exec03.resources
+C:\Users\nubia.peixer\Downloads\14. Windows Form parte 3\bin\Debug\_14.Windows_Form_parte_3.exe.config
+C:\Users\nubia.peixer\Downloads\14. Windows Form parte 3\bin\Debug\_14.Windows_Form_parte_3.exe
+C:\Users\nubia.peixer\Downloads\14. Windows Form parte 3\bin\Debug\_14.Windows_Form_parte_3.pdb
+C:\Users\nubia.peixer\Downloads\14. Windows Form parte 3\obj\Debug\14. Windows Form parte 3.csproj.AssemblyReference.cache
+C:\Users\nubia.peixer\Downloads\14. Windows Form parte 3\obj\Debug\_14.Windows_Form_parte_3.Exec02.resources
+C:\Users\nubia.peixer\Downloads\14. Windows Form parte 3\obj\Debug\_14.Windows_Form_parte_3.Exec03.resources
+C:\Users\nubia.peixer\Downloads\14. Windows Form parte 3\obj\Debug\_14.Windows_Form_parte_3.Form1.resources
+C:\Users\nubia.peixer\Downloads\14. Windows Form parte 3\obj\Debug\_14.Windows_Form_parte_3.Properties.Resources.resources
+C:\Users\nubia.peixer\Downloads\14. Windows Form parte 3\obj\Debug\14. Windows Form parte 3.csproj.GenerateResource.cache
+C:\Users\nubia.peixer\Downloads\14. Windows Form parte 3\obj\Debug\14. Windows Form parte 3.csproj.CoreCompileInputs.cache
+C:\Users\nubia.peixer\Downloads\14. Windows Form parte 3\obj\Debug\_14.Windows_Form_parte_3.exe
+C:\Users\nubia.peixer\Downloads\14. Windows Form parte 3\obj\Debug\_14.Windows_Form_parte_3.pdb
+C:\Users\nubia.peixer\Desktop\Matutino\14. Windows Form pt 3\bin\Debug\_14.Windows_Form_parte_3.exe.config
+C:\Users\nubia.peixer\Desktop\Matutino\14. Windows Form pt 3\bin\Debug\_14.Windows_Form_parte_3.exe
+C:\Users\nubia.peixer\Desktop\Matutino\14. Windows Form pt 3\bin\Debug\_14.Windows_Form_parte_3.pdb
+C:\Users\nubia.peixer\Desktop\Matutino\14. Windows Form pt 3\obj\Debug\14. Windows Form parte 3.csproj.AssemblyReference.cache
+C:\Users\nubia.peixer\Desktop\Matutino\14. Windows Form pt 3\obj\Debug\_14.Windows_Form_parte_3.Exec02.resources
+C:\Users\nubia.peixer\Desktop\Matutino\14. Windows Form pt 3\obj\Debug\_14.Windows_Form_parte_3.Exec03.resources
+C:\Users\nubia.peixer\Desktop\Matutino\14. Windows Form pt 3\obj\Debug\_14.Windows_Form_parte_3.Exec04.resources
+C:\Users\nubia.peixer\Desktop\Matutino\14. Windows Form pt 3\obj\Debug\_14.Windows_Form_parte_3.Form1.resources
+C:\Users\nubia.peixer\Desktop\Matutino\14. Windows Form pt 3\obj\Debug\_14.Windows_Form_parte_3.Properties.Resources.resources
+C:\Users\nubia.peixer\Desktop\Matutino\14. Windows Form pt 3\obj\Debug\14. Windows Form parte 3.csproj.GenerateResource.cache
+C:\Users\nubia.peixer\Desktop\Matutino\14. Windows Form pt 3\obj\Debug\14. Windows Form parte 3.csproj.CoreCompileInputs.cache
+C:\Users\nubia.peixer\Desktop\Matutino\14. Windows Form pt 3\obj\Debug\_14.Windows_Form_parte_3.exe
+C:\Users\nubia.peixer\Desktop\Matutino\14. Windows Form pt 3\obj\Debug\_14.Windows_Form_parte_3.pdb
+C:\Users\nubia.peixer\Desktop\Matutino\14. Windows Form pt 3\obj\Debug\_14.Windows_Form_parte_3.Exec01.resources
+C:\Users\nubia\Downloads\14. Windows Form pt 3\bin\Debug\_14.Windows_Form_parte_3.exe.config
+C:\Users\nubia\Downloads\14. Windows Form pt 3\bin\Debug\_14.Windows_Form_parte_3.exe
+C:\Users\nubia\Downloads\14. Windows Form pt 3\bin\Debug\_14.Windows_Form_parte_3.pdb
+C:\Users\nubia\Downloads\14. Windows Form pt 3\obj\Debug\14. Windows Form parte 3.csprojAssemblyReference.cache
+C:\Users\nubia\Downloads\14. Windows Form pt 3\obj\Debug\_14.Windows_Form_parte_3.Exec01.resources
+C:\Users\nubia\Downloads\14. Windows Form pt 3\obj\Debug\_14.Windows_Form_parte_3.Exec02.resources
+C:\Users\nubia\Downloads\14. Windows Form pt 3\obj\Debug\_14.Windows_Form_parte_3.Exec03.resources
+C:\Users\nubia\Downloads\14. Windows Form pt 3\obj\Debug\_14.Windows_Form_parte_3.Exec04.resources
+C:\Users\nubia\Downloads\14. Windows Form pt 3\obj\Debug\_14.Windows_Form_parte_3.Form1.resources
+C:\Users\nubia\Downloads\14. Windows Form pt 3\obj\Debug\_14.Windows_Form_parte_3.Properties.Resources.resources
+C:\Users\nubia\Downloads\14. Windows Form pt 3\obj\Debug\14. Windows Form parte 3.csproj.GenerateResource.cache
+C:\Users\nubia\Downloads\14. Windows Form pt 3\obj\Debug\14. Windows Form parte 3.csproj.CoreCompileInputs.cache
+C:\Users\nubia\Downloads\14. Windows Form pt 3\obj\Debug\_14.Windows_Form_parte_3.exe
+C:\Users\nubia\Downloads\14. Windows Form pt 3\obj\Debug\_14.Windows_Form_parte_3.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\14. Windows Form pt 3\bin\Debug\_14.Windows_Form_parte_3.exe.config
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\14. Windows Form pt 3\bin\Debug\_14.Windows_Form_parte_3.exe
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\14. Windows Form pt 3\bin\Debug\_14.Windows_Form_parte_3.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\14. Windows Form pt 3\obj\Debug\14. Windows Form parte 3.csprojAssemblyReference.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\14. Windows Form pt 3\obj\Debug\_14.Windows_Form_parte_3.Exec01.resources
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\14. Windows Form pt 3\obj\Debug\_14.Windows_Form_parte_3.Exec02.resources
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\14. Windows Form pt 3\obj\Debug\_14.Windows_Form_parte_3.Exec03.resources
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\14. Windows Form pt 3\obj\Debug\_14.Windows_Form_parte_3.Exec04.resources
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\14. Windows Form pt 3\obj\Debug\_14.Windows_Form_parte_3.Form1.resources
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\14. Windows Form pt 3\obj\Debug\_14.Windows_Form_parte_3.Properties.Resources.resources
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\14. Windows Form pt 3\obj\Debug\14. Windows Form parte 3.csproj.GenerateResource.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\14. Windows Form pt 3\obj\Debug\14. Windows Form parte 3.csproj.CoreCompileInputs.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\14. Windows Form pt 3\obj\Debug\_14.Windows_Form_parte_3.exe
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\14. Windows Form pt 3\obj\Debug\_14.Windows_Form_parte_3.pdb
