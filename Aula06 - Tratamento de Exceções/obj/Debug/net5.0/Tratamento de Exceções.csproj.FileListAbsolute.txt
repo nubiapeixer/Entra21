@@ -1,0 +1,16 @@
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\Tratamento de Exceções\bin\Debug\net5.0\Tratamento de Exceções.exe
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\Tratamento de Exceções\bin\Debug\net5.0\Tratamento de Exceções.deps.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\Tratamento de Exceções\bin\Debug\net5.0\Tratamento de Exceções.runtimeconfig.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\Tratamento de Exceções\bin\Debug\net5.0\Tratamento de Exceções.runtimeconfig.dev.json
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\Tratamento de Exceções\bin\Debug\net5.0\Tratamento de Exceções.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\Tratamento de Exceções\bin\Debug\net5.0\ref\Tratamento de Exceções.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\Tratamento de Exceções\bin\Debug\net5.0\Tratamento de Exceções.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\Tratamento de Exceções\obj\Debug\net5.0\Tratamento de Exceções.csprojAssemblyReference.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\Tratamento de Exceções\obj\Debug\net5.0\Tratamento de Exceções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\Tratamento de Exceções\obj\Debug\net5.0\Tratamento de Exceções.AssemblyInfoInputs.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\Tratamento de Exceções\obj\Debug\net5.0\Tratamento de Exceções.AssemblyInfo.cs
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\Tratamento de Exceções\obj\Debug\net5.0\Tratamento de Exceções.csproj.CoreCompileInputs.cache
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\Tratamento de Exceções\obj\Debug\net5.0\Tratamento de Exceções.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\Tratamento de Exceções\obj\Debug\net5.0\ref\Tratamento de Exceções.dll
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\Tratamento de Exceções\obj\Debug\net5.0\Tratamento de Exceções.pdb
+C:\Users\nubia\OneDrive\Área de Trabalho\Núbia\Programação C#\Senac\C#\Tratamento de Exceções\obj\Debug\net5.0\Tratamento de Exceções.genruntimeconfig.cache
