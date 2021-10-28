@@ -1,0 +1,60 @@
+﻿EXERCÍCIO 01
+create table dbo.Dados(
+	idDados int Primary Key Identity(1,1) not null,
+	Nome VARCHAR(50) not null,
+	Cpf VARCHAR(11) not null,
+	Rg VARCHAR(8) not null
+)
+
+create table dbo.PessoaDados(
+	idPessoa int not null, 
+	Constraint fkDados Foreign Key (idPessoa) REFERENCES dbo.Dados (idDados)
+)
+
+create table dbo.ClienteDados(
+	idCliente int Primary Key Identity(1,1) not null,
+	Vip bit not null,
+	idDados int not null,
+	Constraint fkDado Foreign Key (idDados) REFERENCES dbo.Dados (idDados)
+)
+
+create table dbo.FuncionarioDados(
+	idFuncionario int Primary Key Identity(1,1) not null,
+	Salario Money not null,
+	idDados int not null,
+	Constraint fkDadoss Foreign Key (idDados) REFERENCES dbo.Dados (idDados)
+)
+
+EXERCÍCIO 02
+Create Table dbo.Endereco(
+	idEndereco int Primary Key Identity(1,1) not null,
+	Rua VARCHAR(20) not null,
+	Numero VARCHAR(6) not null,
+	Cidade VARCHAR(30) not null,
+	Estado VARCHAR(30) not null
+)
+
+Create Table dbo.PessoaEndereco(
+	idPessoa int Primary Key Identity(1,1) not null,
+	Nome VARCHAR(50) not null,
+	Idade int not null,
+	Cpf VARCHAR(14) not null,
+	idEndereco int not null,
+	Constraint fkEndereco Foreign Key (idEndereco) REFERENCES dbo.Endereco(idEndereco)
+)
+
+Create Table dbo.Empresa(
+	idEmpresa int Primary Key Identity(1,1) not null,
+	Nome VARCHAR(50) not null,
+	QtdFuncionarios int not null,
+	idEndereco int not null,
+	Constraint fkEnderecoEmpresa Foreign Key (idEndereco) REFERENCES dbo.Endereco(idEndereco)
+)
+
+Create Table dbo.Habitacao(
+	idHabitacao int Primary Key Identity(1,1) not null,
+	NomeDoDono VARCHAR(50) not null,
+	Tipo VARCHAR(20) not null,
+	idEndereco int not null,
+	Constraint fkEnderecoHabit Foreign Key (idEndereco) REFERENCES dbo.Endereco(idEndereco)
+)
