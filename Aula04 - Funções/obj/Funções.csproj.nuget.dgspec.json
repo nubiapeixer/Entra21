@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nubia\\OneDrive\\Área de Trabalho\\Núbia\\Programação C#\\Senac\\C#\\4 Funções\\Funções.csproj": {}
+    "C:\\Users\\nubia\\OneDrive\\Área de Trabalho\\Núbia\\Programação C#\\Senac\\C#\\Entra21\\Aula04 - Funções\\Funções.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nubia\\OneDrive\\Área de Trabalho\\Núbia\\Programação C#\\Senac\\C#\\4 Funções\\Funções.csproj": {
+    "C:\\Users\\nubia\\OneDrive\\Área de Trabalho\\Núbia\\Programação C#\\Senac\\C#\\Entra21\\Aula04 - Funções\\Funções.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nubia\\OneDrive\\Área de Trabalho\\Núbia\\Programação C#\\Senac\\C#\\4 Funções\\Funções.csproj",
+        "projectUniqueName": "C:\\Users\\nubia\\OneDrive\\Área de Trabalho\\Núbia\\Programação C#\\Senac\\C#\\Entra21\\Aula04 - Funções\\Funções.csproj",
         "projectName": "Funções",
-        "projectPath": "C:\\Users\\nubia\\OneDrive\\Área de Trabalho\\Núbia\\Programação C#\\Senac\\C#\\4 Funções\\Funções.csproj",
+        "projectPath": "C:\\Users\\nubia\\OneDrive\\Área de Trabalho\\Núbia\\Programação C#\\Senac\\C#\\Entra21\\Aula04 - Funções\\Funções.csproj",
         "packagesPath": "C:\\Users\\nubia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nubia\\OneDrive\\Área de Trabalho\\Núbia\\Programação C#\\Senac\\C#\\4 Funções\\obj\\",
+        "outputPath": "C:\\Users\\nubia\\OneDrive\\Área de Trabalho\\Núbia\\Programação C#\\Senac\\C#\\Entra21\\Aula04 - Funções\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

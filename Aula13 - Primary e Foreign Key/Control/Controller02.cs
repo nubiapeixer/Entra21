@@ -18,12 +18,9 @@ namespace _18.AulaSQL.Control
             else
             {
                 return false;
-<<<<<<< HEAD
-            }
-
-=======
-            }            
->>>>>>> 818fe9a70763464fa6045dc1e8b9f7ea54f2122d
+ 
+            }                       
+ 
         }
         public static List<string[]> SelecionaPessoas()
         {

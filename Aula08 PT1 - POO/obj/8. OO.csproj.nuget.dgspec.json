@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nubia\\OneDrive\\Área de Trabalho\\Núbia\\Programação C#\\Senac\\C#\\8. OO\\8. OO.csproj": {}
+    "C:\\Users\\nubia\\OneDrive\\Área de Trabalho\\Núbia\\Programação C#\\Senac\\C#\\Entra21\\Aula08 PT1 - POO\\8. OO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nubia\\OneDrive\\Área de Trabalho\\Núbia\\Programação C#\\Senac\\C#\\8. OO\\8. OO.csproj": {
+    "C:\\Users\\nubia\\OneDrive\\Área de Trabalho\\Núbia\\Programação C#\\Senac\\C#\\Entra21\\Aula08 PT1 - POO\\8. OO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nubia\\OneDrive\\Área de Trabalho\\Núbia\\Programação C#\\Senac\\C#\\8. OO\\8. OO.csproj",
+        "projectUniqueName": "C:\\Users\\nubia\\OneDrive\\Área de Trabalho\\Núbia\\Programação C#\\Senac\\C#\\Entra21\\Aula08 PT1 - POO\\8. OO.csproj",
         "projectName": "8. OO",
-        "projectPath": "C:\\Users\\nubia\\OneDrive\\Área de Trabalho\\Núbia\\Programação C#\\Senac\\C#\\8. OO\\8. OO.csproj",
+        "projectPath": "C:\\Users\\nubia\\OneDrive\\Área de Trabalho\\Núbia\\Programação C#\\Senac\\C#\\Entra21\\Aula08 PT1 - POO\\8. OO.csproj",
         "packagesPath": "C:\\Users\\nubia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nubia\\OneDrive\\Área de Trabalho\\Núbia\\Programação C#\\Senac\\C#\\8. OO\\obj\\",
+        "outputPath": "C:\\Users\\nubia\\OneDrive\\Área de Trabalho\\Núbia\\Programação C#\\Senac\\C#\\Entra21\\Aula08 PT1 - POO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

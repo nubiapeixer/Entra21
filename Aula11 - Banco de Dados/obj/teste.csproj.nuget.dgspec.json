@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nubia\\OneDrive\\Área de Trabalho\\Núbia\\Programação C#\\Senac\\C#\\11. Banco de Dados\\teste.csproj": {}
+    "C:\\Users\\nubia\\OneDrive\\Área de Trabalho\\Núbia\\Programação C#\\Senac\\C#\\Entra21\\Aula11 - Banco de Dados\\teste.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nubia\\OneDrive\\Área de Trabalho\\Núbia\\Programação C#\\Senac\\C#\\11. Banco de Dados\\teste.csproj": {
+    "C:\\Users\\nubia\\OneDrive\\Área de Trabalho\\Núbia\\Programação C#\\Senac\\C#\\Entra21\\Aula11 - Banco de Dados\\teste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nubia\\OneDrive\\Área de Trabalho\\Núbia\\Programação C#\\Senac\\C#\\11. Banco de Dados\\teste.csproj",
+        "projectUniqueName": "C:\\Users\\nubia\\OneDrive\\Área de Trabalho\\Núbia\\Programação C#\\Senac\\C#\\Entra21\\Aula11 - Banco de Dados\\teste.csproj",
         "projectName": "teste",
-        "projectPath": "C:\\Users\\nubia\\OneDrive\\Área de Trabalho\\Núbia\\Programação C#\\Senac\\C#\\11. Banco de Dados\\teste.csproj",
+        "projectPath": "C:\\Users\\nubia\\OneDrive\\Área de Trabalho\\Núbia\\Programação C#\\Senac\\C#\\Entra21\\Aula11 - Banco de Dados\\teste.csproj",
         "packagesPath": "C:\\Users\\nubia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nubia\\OneDrive\\Área de Trabalho\\Núbia\\Programação C#\\Senac\\C#\\11. Banco de Dados\\obj\\",
+        "outputPath": "C:\\Users\\nubia\\OneDrive\\Área de Trabalho\\Núbia\\Programação C#\\Senac\\C#\\Entra21\\Aula11 - Banco de Dados\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

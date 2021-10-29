@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g+fne6i2nPlmfD+N7V97iGsP/6JhmYgR+EhopNLzMMAzfqoUNIOROf8mt0wW7a5eb8kgR1ch+o4zTtmoknf5ZQ==",
+  "dgSpecHash": "NIhYcJliQFqyu38SuHkVb0ph2ubn5l+Mzp1t1P7VINhtgxGgmteqkRPBxz7NNJMrT1gWAdkQV7FCZTYQRez+Og==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nubia\\OneDrive\\Área de Trabalho\\Núbia\\Programação C#\\Senac\\C#\\11. Banco de Dados\\teste.csproj",
+  "projectFilePath": "C:\\Users\\nubia\\OneDrive\\Área de Trabalho\\Núbia\\Programação C#\\Senac\\C#\\Entra21\\Aula11 - Banco de Dados\\teste.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nubia\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\nubia\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

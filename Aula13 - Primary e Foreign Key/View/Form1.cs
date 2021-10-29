@@ -30,6 +30,11 @@ namespace _18.AulaSQL
                 new Exec02().Show();
                 this.Hide();
             }
+            else if(rb3.Checked)
+            {
+                new Exec03().Show();
+                this.Hide();
+            }
         }
     }
 }

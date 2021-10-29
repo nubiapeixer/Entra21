@@ -58,3 +58,12 @@ Create Table dbo.Habitacao(
 	idEndereco int not null,
 	Constraint fkEnderecoHabit Foreign Key (idEndereco) REFERENCES dbo.Endereco(idEndereco)
 )
+
+EXERCÍCIO 03
+Create table dbo.Cachorro(
+	idCachorro int Identity(1,1) not null,
+	Nome VARCHAR(10) not null,
+	Idade int not null,
+	Dopamina int,
+	Conforto int
+)

@@ -72,36 +72,36 @@ namespace _8._3_OO_pt_04
 
             //// Exec 02
             //// A
-            //Pessoa1 pess = new Pessoa1();
-            //Console.WriteLine("Preencha pessoa");
-            //Console.WriteLine();
-            //Console.WriteLine("Informe o nome");
-            //pess.Nome = CR();
-            //Console.WriteLine("Informe a idade");
-            //pess.Idade = Convert.ToInt32(CR());
-            //Console.WriteLine("Informe dopamina");
-            //pess.Dopamina = Convert.ToDouble(CR());
-            //Console.WriteLine("Informe o dinheiro");
-            //pess.Dinheiro = Convert.ToDouble(CR());
-            //Console.WriteLine();
-            //Console.WriteLine("Deseja trabalhar ou comer?");
-            //Console.WriteLine("1 - Trabalhar\n2 - Comer");
-            //int escolha = Convert.ToInt32(CR());
-            //if (escolha == 1)
-            //{
-            //    Console.WriteLine("Quantas horas?");
-            //    int dinheiro = Convert.ToInt32(CR());
-            //    pess.Dinheiro = Pessoa1.Trabalhar(dinheiro) + pess.Dinheiro;                
-            //}
-            //else
-            //{
-            //    Console.WriteLine("Quantos quilogramas?");
-            //    double comida = Convert.ToDouble(CR());
-            //    pess.Dopamina = Pessoa1.Comer(comida) + pess.Dopamina;
+            Pessoa1 pess = new Pessoa1();
+            Console.WriteLine("Preencha pessoa");
+            Console.WriteLine();
+            Console.WriteLine("Informe o nome");
+            pess.Nome = CR();
+            Console.WriteLine("Informe a idade");
+            pess.Idade = Convert.ToInt32(CR());
+            Console.WriteLine("Informe dopamina");
+            pess.Dopamina = Convert.ToDouble(CR());
+            Console.WriteLine("Informe o dinheiro");
+            pess.Dinheiro = Convert.ToDouble(CR());
+            Console.WriteLine();
+            Console.WriteLine("Deseja trabalhar ou comer?");
+            Console.WriteLine("1 - Trabalhar\n2 - Comer");
+            int escolha = Convert.ToInt32(CR());
+            if (escolha == 1)
+            {
+                Console.WriteLine("Quantas horas?");
+                int dinheiro = Convert.ToInt32(CR());
+                pess.Dinheiro = Pessoa1.Trabalhar(dinheiro) + pess.Dinheiro;
+            }
+            else
+            {
+                Console.WriteLine("Quantos quilogramas?");
+                double comida = Convert.ToDouble(CR());
+                pess.Dopamina = Pessoa1.Comer(comida) + pess.Dopamina;
 
-            //}
-            //Console.WriteLine("-----------------//-----------------");
-            //Console.WriteLine("{0} / {1} / {2} / {3:c}", pess.Nome, pess.Idade, pess.Dopamina, pess.Dinheiro);
+            }
+            Console.WriteLine("-----------------//-----------------");
+            Console.WriteLine("{0} / {1} / {2} / {3:c}", pess.Nome, pess.Idade, pess.Dopamina, pess.Dinheiro);
 
             //// B
             //List<Cachorro> dogs = new List<Cachorro>();

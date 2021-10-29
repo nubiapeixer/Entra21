@@ -122,7 +122,7 @@ namespace _18.AulaSQL.View
         {
             if (checkPessoa.Checked)
             {
-                List<string[]> lista = Controller02.SelecionaPessoas();
+                List<string[]> lista = Controller01.SelecionaPessoas();
                 string mostraTexto = "";
                 foreach (var item in lista)
                 {
